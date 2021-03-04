@@ -2,6 +2,8 @@
 A ready to use default scss-html template 
 
 ## Configuration
+Clone the repo and then
+
 `cd sass-default-html-template && npm install`
 
 ## Usage
